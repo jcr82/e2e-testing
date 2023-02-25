@@ -35,6 +35,8 @@
 - Overall, testing is everyone's responsibility and it should be part of the process from the start of the project
 
 ### Testing Pyramid
+![Screenshot](automated-tools-pyramid.png)
+Source: https://reflect.run/articles/automated-testing-tools/
 - The Testing Pyramid shows the various types of tests and their relationship to one another.
 - Unit tests are at the bottom of the pyramid and take up the largest amount of space. They are intended to test a single "unit" within an application and should not be dependent upon other parts of the system.
 - Integration tests are above unit tests and are fundamentally dependent. Their purpose is to test the dependencies of pieces within a system that are working together correctly.
