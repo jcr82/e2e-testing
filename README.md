@@ -42,3 +42,7 @@ Source: https://reflect.run/articles/automated-testing-tools/
 - Unit tests are at the bottom of the pyramid and take up the largest amount of space. They are intended to test a single "unit" within an application and should not be dependent upon other parts of the system.
 - Integration tests are above unit tests and are fundamentally dependent. Their purpose is to test the dependencies of pieces within a system that are working together correctly.
 - End to End (E2E) tests are at the top of the pyramid and are written to test anything that runs in the browser. The purpose of these tests is to imitate what a real user would do.
+
+### Strategies
+![Screenshot](Strategies_Testing.png)
+Source: https://www.youtube.com/watch?v=5XQOK0v_YRE
