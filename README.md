@@ -28,4 +28,9 @@
 - The "shift left" movement is pushing developers to become more involved in testing
 - Test automation is integrated into the software development lifecycle from the beginning
 - Teams can follow practices like Test Driven Development BDD
-- Real World Testing with Cypress teaches how to write automated tests for both developers and QA professionals.
+
+### Who should be responsible for testing?
+- Ultimately, the team is responsibility for testing.
+- Everyone has a role when it comes to testing. For example, developers should ensure unit tests have sufficient coverage.
+- Overall, testing is everyone's responsibility and it should be part of the process from the start of the project
+
